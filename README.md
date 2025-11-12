@@ -37,6 +37,7 @@
 ---
 
 ### 🛠️ Binary Exploitation Tools
+
 <!-- ![gdb](https://img.shields.io/badge/gdb-000000?style=flat-square&logo=gnu&logoColor=white) -->
 ![pwndbg](https://img.shields.io/badge/pwndbg-000000?style=flat-square&logo=gnu-bash&logoColor=white) 
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-37474F?style=flat-square&logo=hexo&logoColor=white) 
@@ -63,16 +64,19 @@
 
 <h2> 🌐 Socials</h2>
 <p align="center">
-    <a href="https://www.facebook.com/nhh9905" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="25" alt="Facebook logo"/></a>
-    <img width="12" />
-    <a href="https://t.me/nhh9905" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=Telegram&logoColor=white" height="25" alt="Telegram logo"/></a>
+    <a href="https://www.facebook.com/nhh9905" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook logo"/>
+    </a>
+    <a href="https://t.me/nhh9905" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram logo"/>
+    </a>
 </p>
 
 ###
 
 <h2>🐍 My Contributions</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <br/>
 
 ---
@@ -80,8 +84,8 @@
 <h2> 📈 GitHub Stats</h2>
 
 <p align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=nhh9905&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=8A2BE2&bg_color=0D1117" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nhh9905&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=nhh9905&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=8A2BE2&bg_color=0D1117" width="48%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhh9905&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%">
 </p>
 
 ---
