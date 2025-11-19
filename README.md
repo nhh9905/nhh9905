@@ -74,14 +74,14 @@
 
 ###
 
-<h2>🐍 My Contributions</h2>
+<!-- <h2>🐍 My Contributions</h2>
   <br>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <br/>
 
----
+--- -->
 
-<h2> 📈 GitHub Stats</h2>
+<!-- <h2> 📈 GitHub Stats</h2>
 
 <p align="center">  
     <img src="https://github-readme-stats.vercel.app/api?username=nhh9905&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=8A2BE2&bg_color=0D1117" width="55%" valign="top">
@@ -91,10 +91,10 @@
 
 ###
 
-<h2>🔥 My Stats</h2>
+<!-- <h2>🔥 My Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhh9905&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="streak graph"/>
-</div>
+</div> -->
 
 ###
 
