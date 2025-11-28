@@ -41,7 +41,7 @@
 <!-- ![gdb](https://img.shields.io/badge/gdb-000000?style=flat-square&logo=gnu&logoColor=white) -->
 ![pwndbg](https://img.shields.io/badge/pwndbg-000000?style=flat-square&logo=gnu-bash&logoColor=white) 
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-37474F?style=flat-square&logo=hexo&logoColor=white) 
-![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat-square&logo=vmware&logoColor=white)
+![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat-square&logo=vmware&logoColor=white) 
 <!-- ![Ghidra](https://img.shields.io/badge/Ghidra-FB4F14?style=flat-square&logo=ghidra&logoColor=white)  -->
 <!-- ![Detect It Easy (DIE)](https://img.shields.io/badge/DIE-800080?style=flat-square&logo=search&logoColor=white) -->
 
